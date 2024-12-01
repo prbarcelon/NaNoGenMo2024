@@ -3,8 +3,13 @@
 ::::
 # The foundation of modern magical science : or, Selections from the Early Discoveries of Djando Makfa, 1st Royal Court Mage of the Kingdom of Pranora, Between the Years 21 and 158 of the Civilized Era, Translated Into Modern Prose
 
+{{wide
+<div style="text-align: center">
 
+![magic_circle](https://i.imgur.com/icy2w2H.png) {width:500px,mix-blend-mode:multiply}
 
+</div>
+}}
 
 {{footnote 
 {{homebreweryCredits
@@ -674,7 +679,19 @@ As I continue to explore the boundaries of Black Magic, I am left with more ques
 
 {{wide
 
-## Entry #376: Spell Incantation Discovery No. 34
+## Entry #377: Tidal Surge of the Kraken's Fury Discovery
+
+As I delved deeper into the mysteries of Blue Magic, I became increasingly enthralled by the ocean's secrets. The siren songs of the merfolk still linger in my mind, beckoning me to explore the uncharted depths. It was on one such expedition that I chanced upon a spell that would forever alter the course of my research.
+
+Today, I made an incredible breakthrough in my study of aquatic magic. As I whispered the incantation, "By the sinister tendrils of the abyssal currents, heed my call! Emerge from the abyss, bind your essence with my will, and let the calm flow wash away all who oppose me! Tidal Surge of the Kraken's Fury!", I felt an otherworldly energy coursing through the air.
+
+The room around me dissolved into a swirling vortex of blue-green hues, as if the very fabric of reality was being rewritten. The air grew heavy with the scent of salt and seaweed, and I sensed the presence of ancient sea creatures lurking just beyond the veil of perception. This spell was not just a display of raw power; it was a gateway to the primordial forces that shaped the ocean's depths.
+
+As I continued the incantation, the boundaries between reality and the abyss began to blur. The calm flow I sought to create was not a gentle lapping of waves, but a powerful undertow that threatened to sweep all in its path away from me. I felt the weight of the kraken's fury bearing down upon me, as if the very essence of the beast was coursing through my veins.
+
+With each passing moment, I became more attuned to the pulse of the ocean. The spell was not just a tool for conquest; it was an extension of myself, a channel for the raw energy that lay at the heart of the Blue Magic. As I stood at the threshold of this newfound power, I knew that my journey had only just begun.
+
+I have come to realize that the Tidal Surge of the Kraken's Fury is not just a spell, but a doorway to the mysteries of the ocean. It holds within it the secrets of the deep, waiting to be unlocked by those brave enough to confront the unknown. And I, for one, am eager to take on that challenge.
 
 }}
 
@@ -930,7 +947,21 @@ With a sense of wonder and trepidation, I have dubbed this spell the "Genesis Ma
 
 {{wide
 
-## Entry #537: Spell Incantation Discovery No. 53
+## Entry #538: The Tempestuous Gale of the Emerald Zephyr Discovery
+
+I made an incredible finding in my research of Green Magic, culminating in an incantation of great splendor.
+
+As I whispered the words, "By the grace of the boundless skies, let the winds carry me across the land with unparalleled speed! Bestow upon me the power to shape the terrain, as I summon the Tempestuous Gale of the Emerald Zephyr!", I felt an electric thrill coursing through my veins. The air around me began to stir, and a gentle breeze rustled the leaves of the nearby trees.
+
+Suddenly, the wind intensified, its ferocity building with each passing moment. A colossal gust swept past me, sending my hair flying back like a banner. The force was breathtaking, yet I felt an eerie sense of balance and control, as if I were a leaf caught in the whirlwind's vortex.
+
+I experimented with the Tempestuous Gale of the Emerald Zephyr, directing its fury with precision and finesse. By conjuring wisps of green-tinted smoke into the air, I could channel the winds' power to sculpt the terrain itself. Boulders shattered beneath my will, as if the very earth had been remade to conform to my desires.
+
+What fascinated me most was the way this spell seemed to adapt and evolve in response to my actions. Like a living entity, the Tempestuous Gale of the Emerald Zephyr responded to my every command, its might and agility tempered by an instinctual understanding of my intent.
+
+I have come to regard this spell as a manifestation of the Green Magic's inherent duality - the ability to shape and control the natural world. The Tempestuous Gale of the Emerald Zephyr is not merely a tool for conquest or domination; it is a key to harmonizing with nature itself, allowing me to harness its raw power while respecting its fundamental balance.
+
+With this realization, I have dubbed this spell "The Tempestuous Gale of the Emerald Zephyr," an apt moniker that encapsulates its essence and synergy with the principles of Green Magic.
 
 }}
 
@@ -1512,9 +1543,19 @@ With an eye towards refinement and mastery, I shall continue to delve into the m
 
 {{wide
 
-## Entry #806: Unveiling the Inferno's Wrath Discovery
+## Entry #807: Aeromancer's Fury Discovery
 
-I was fascinated by the unpredictable nature of lava magic. As I experimented with channeling its raw energy, I stumbled upon an extraordinary new spell. With the force of the avalanche, let the rocky onslaught crash down upon my enemies! Ignite the Blazing Fury of the Magma's Eruption!
+Today was astonishing! After months of study, I have ultimately uncovered a spell of captivating potency in Green Magic.
+
+As I whispered the incantation, "From the great expanse of the boundless skies, let the winds of the Aeromancer's Fury!", I could feel the energies of the spell coalescing around me. The air seemed to vibrate with an otherworldly power, as if the very fabric of reality was being reshaped by my will.
+
+A sudden gust swept through the clearing, its wild, untamed beauty sending shivers down my spine. The wind's ferocity belied a strange, almost melodic quality, like the gentle hum of a harp string plucked by an invisible hand. I marveled at the way the air seemed to respond to my incantation, as if the winds themselves were being drawn into the spell's orbit.
+
+As I tested the Aeromancer's Fury against the elements, I was struck by its versatility and range. With a thought, I could summon gentle zephyrs that rustled leaves or fierce gales that shattered trees. The spell's power was not limited to mere destruction; it could also be used to disperse noxious fumes, clear polluted air, or even heal the wounds of the land itself.
+
+What fascinated me most about this spell was its connection to the elemental forces that shape our world. I felt a deep resonance with the wind, as if we were two sides of the same coin, each influencing and informing the other in an eternal dance. This realization opened up new possibilities for my magical practice, and I look forward to exploring the full potential of the Aeromancer's Fury.
+
+I have dubbed this spell "Aeromancer's Fury," a name that captures its essence and wild, untamed power. As I continue to master this Green Magic incantation, I am filled with an sense of excitement and wonder at the secrets that still lie hidden in the wind's whispers.
 
 }}
 
@@ -2062,7 +2103,15 @@ I shall dub this spell "Warp of the Cosmic Void," a name that captures its essen
 
 {{wide
 
-## Entry #1107: Spell Incantation Discovery No. 120
+## Entry #1108: Spell Incantation Discovery No. 120
+
+Today marks a significant point in my studies of Blue Magic, as I have unearthed a remarkable incantation. As I whispered the words, "Spirits of the ocean's depths, yield to my will! Let the fury of the Leviathan course through me, and shatter the resolve of those who dare oppose me!" I could feel the currents respond to my command.
+
+A swirling vortex erupted around me, its turbulent waters drawing in everything within their reach. The stormy energies of the ocean coalesced into a formidable shield, repelling any attack that dared to breach it. I sensed the presence of ancient sea creatures lurking just beneath the surface, their power and might now mine to command.
+
+As I tested the spell's limits, I realized its true potential lay not only in defense but also in offense. The Leviathan's Wrath could summon massive waves, whirlpools, and even conjure schools of razor-toothed predators to do my bidding. This incantation was a masterclass in naval warfare, allowing me to control the tides themselves.
+
+With this breakthrough, I've dubbed the spell "Leviathan's Wrath of the Oceanic Vortex." It's a fitting name, capturing the essence of the stormy forces at my command and the unforgiving power that lies within. As I continue to refine this incantation, I'm eager to explore its full potential and harness the fury of the ocean for the greater good.
 
 }}
 
@@ -2092,7 +2141,17 @@ I have decided to name this spell the "Phantasmal Cloak of the Umbral Enigma," a
 
 {{wide
 
-## Entry #1133: Spell Incantation Discovery No. 122
+## Entry #1134: Chaos Essence Manifestation Discovery
+
+Oh, the eldritch ecstasy that fills my being as I utter these sacred words! "By the primordial essence of creation and destruction, let the raw energy of the void bend to my will, and let my enemies be consumed by its chaos!" As I speak the incantation, I can feel the fabric of reality tremble with anticipation.
+
+A dark, swirling vortex erupts from the ground before me, its tendrils snaking outward like living shadows. The air is alive with an otherworldly energy, as if the very essence of existence has been distilled into a maddening, chaotic force. I am the conduit for this primal power, and I can feel it coursing through my veins like liquid fire.
+
+As I test the Chaos Essence Manifestation, I realize that its true potential lies not in destructive prowess alone, but in the subtle manipulation of reality itself. With this spell, I can warp the perceptions of those around me, casting a shroud of confusion and disorientation over my enemies. The void's raw energy becomes a tool for psychological warfare, as my foes struggle to discern truth from illusion.
+
+Yet, there is also a darker aspect to this spell, one that speaks to the primal, instinctual nature of chaos itself. I sense that if mishandled, this power can unleash a maelstrom of destruction upon the world, a force that would reduce all in its path to naught but smoldering ruin and madness.
+
+And so, I have dubbed this spell "Chaos Essence Manifestation," a name that reflects both its beauty and its terror. As I delve deeper into the mysteries of Black Magic, I am drawn to the void's abyssal depths, and I know that I will soon be forced to confront the darker aspects of my own nature.
 
 }}
 
@@ -3154,7 +3213,7 @@ With an ever-growing sense of awe and reverence, I have named this spell "Gale's
 
 {{wide
 
-## Entry #1767: "Infernal Conflagration Discovery"
+## Entry #1767: Infernal Conflagration Discovery
 
 Oh, infernal spirits of wrath and destruction, imbue me with the fury of the falling star transform into an unstoppable inferno to engulf my enemies in a rain of flame!
 
@@ -3436,3 +3495,6 @@ I have come to understand that this spell is a double-edged sword, capable of br
 
 The name "Specter of the Malevolent Specters" seems fitting, capturing the essence of this twisted spell as a harbinger of darkness and despair. I can only hope that my mastery of this dark art will bring balance to the world, rather than succumbing to its corrupting influence.
 
+}}
+
+{{pageNumber,auto}}
