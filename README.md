@@ -1,4 +1,4 @@
-This is my NaNoGenMo 2024 Entry. The goal was to generate a fictitious book using various text generation techniques.
+This is my [NaNoGenMo 2024](https://github.com/NaNoGenMo/2024) Entry. The goal was to generate a fictitious book using various text generation techniques.
 
 The book is a historical collection of research journal entries by a famous wizard that documents their discovery of various foundational spells in their world. Each entry goes into detail about the spell's incantation, its effects, and the wizard's thoughts on its potential applications.
 
